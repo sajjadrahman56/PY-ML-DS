@@ -1,5 +1,0 @@
-Here for the time I used azure console . 
-Azure subscriptions mainly divided into 3 parts these Dev subscriptions , Test subscriptions and Productions subscriptions.
-
-Sound Box Issue 
-"You've used all of your sandboxes for today." 	You can activate up to four sandbox environments per day. Once you've used all your sandboxes for the day, you'll need to wait 24 hours before you can activate more sandboxes. 
